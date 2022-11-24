@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "serversidebackend",
+			"path": ".."
+		},
+		{
+			"name": "utils",
+			"path": "../../mern-react-native-master/server/utils"
+		}
+	],
+	"settings": {}
+}
